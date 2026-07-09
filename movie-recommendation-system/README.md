@@ -10,9 +10,8 @@ Content-based recommendation engine built using Python and Google ML fundamental
 - Built a content-based filtering model
 - Generated personalized recommendations from user-preference data
 
-
 ## Code
-![Recommendation Function](Movie recommender ss1.png)
+![Recommendation Function](Movie%20recommender%20ss1.png)
 
 ## App Output
-![Streamlit App](Movie recommender ss2.png)
+![Streamlit App](Movie%20recommender%20ss2.png)
