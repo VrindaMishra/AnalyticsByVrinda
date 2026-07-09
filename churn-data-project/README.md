@@ -8,4 +8,6 @@ Power BI dashboard analyzing 1,500+ customer records to identify churn drivers a
 ## Key Highlights
 - Segmented customers by churn risk
 - Tracked retention and revenue-impact KPIs
+
+
 ![Dashboard Screenshot](churn-dashboard-screenshot.png)
