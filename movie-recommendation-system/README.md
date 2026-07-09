@@ -12,7 +12,7 @@ Content-based recommendation engine built using Python and Google ML fundamental
 
 
 ## Code
-![Recommendation Function](Movie_recommender_ss1.png)
+![Recommendation Function](Movie recommender ss1.png)
 
 ## App Output
-![Streamlit App](Movie_recommender_ss2.png)
+![Streamlit App](Movie recommender ss2.png)
